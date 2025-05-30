@@ -1,3 +1,4 @@
+// SSE ( Server Sent Events) - FE 
 // import React, { useEffect, useState } from 'react';
 
 // function App() {
